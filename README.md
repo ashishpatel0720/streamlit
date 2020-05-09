@@ -1,3 +1,7 @@
+# Youtube Playlist
+
+https://www.youtube.com/playlist?list=PLgkF0qak9G49QlteBtxUIPapT8TzfPuB8
+
 # Welcome to Streamlit :wave:
 
 **The fastest way to build custom ML tools.**
